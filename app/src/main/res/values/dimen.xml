@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spacing">2dp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="product_text_size">18sp</dimen>
+    <dimen name="tab_text_size">14sp</dimen>
+</resources>
